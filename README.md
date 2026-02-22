@@ -9,3 +9,5 @@ To run this simulation, you will need MATLAB version 2025b along with the Simuli
 
 Performance and Results
 The simulation successfully demonstrates a stable 250v DC output even during fluctuating wind speeds and solar irradiance. By implementing automated fault detection, the system can reconfigure its parameters in real-time to prevent power loss and protect sensitive electronics within the circuit.
+![Circuit Diagram](Capture1.JPG)
+![Circuit Diagram](Capture2.JPG)
